@@ -1,0 +1,182 @@
+[
+    {
+        "question" : "What was the name of the pet monkey Ross had in FRIENDS ?",
+        "choice1" : "Marcel",
+        "choice2" : "Chimp",
+        "choice3" : "Houston",
+        "choice4" : "Oreo",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Michael Scott works as a Regional Manager for which company in The Office?",
+        "choice1" : "Paper and Co.",
+        "choice2" : "Thomson and Co.",
+        "choice3" : "Zarson Papers",
+        "choice4" : "Dunder Mifflin",
+        "answer" : 4
+
+    },
+    {
+        "question" : "What did Barack Obama reveal as his favourite TV series of 2019?",
+        "choice1" : "The Wire",
+        "choice2" : "Fleabag",
+        "choice3" : "Downton Abbey",
+        "choice4" : "Family Guy",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Which coffeehouse did Ross, Rachel, Monica, Chandler, Phoebe and Joey hang out in on Friends?",
+        "choice1" : "Starbucks",
+        "choice2" : "Middletown",
+        "choice3" : "The Coffee House",
+        "choice4" : "Central Perk",
+        "answer" : 4
+
+    },
+    {
+        "question" : "Which Modern Family character is Claire Dunphy's half-brother?",
+        "choice1" : "Phil",
+        "choice2" : "Joe",
+        "choice3" : "Cam",
+        "choice4" : "Jay",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Which of the core male That '70s Show characters is the only one who never dated Jackie Burkhart?",
+        "choice1" : "Eric Foreman",
+        "choice2" : "Michael Kelso",
+        "choice3" : "Steven Hyde",
+        "choice4" : "Fez",
+        "answer" : 1
+
+    },
+    {
+        "question" : "On The Big Bang Theory, Penny is a waitress at which restaurant?",
+        "choice1" : "Cheesecake Factory",
+        "choice2" : "Third Wave",
+        "choice3" : "Central Perk",
+        "choice4" : "Milwan House",
+        "answer" : 1
+
+    },
+    {
+        "question" : "In Season 3 of “The Vampire Diaries,” who is the mansion owner that hosted the formal and glamorous ball? ",
+        "choice1" : "Klaus",
+        "choice2" : "Stefan",
+        "choice3" : "Damon",
+        "choice4" : "Matthew",
+        "answer" : 1
+
+    },
+    {
+        "question" : "In what city do the “Gossip Girl” books set? ",
+        "choice1" : "Los Angeles",
+        "choice2" : "New York City",
+        "choice3" : "Chicago",
+        "choice4" : "Dallas",
+        "answer" : 2
+
+    },
+    {
+        "question" : " Which is the only male roommate on The Big Bang Theory without a doctorate?",
+        "choice1" : "Leonard",
+        "choice2" : "Howard",
+        "choice3" : "Sheldon",
+        "choice4" : "Raj",
+        "answer" : 2
+
+    },
+    {
+        "question" : "What is the full name of the titular character in the T.V. series, “The Mentalist”?",
+        "choice1" : "Matthew James",
+        "choice2" : "Patrick Jane",
+        "choice3" : "Matthew Keith",
+        "choice4" : "Patrick Olsen",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Who is the husband of Cameron in the series “Modern Family”? ",
+        "choice1" : "Luke",
+        "choice2" : "Jay",
+        "choice3" : "Mitchell",
+        "choice4" : "Phil",
+        "answer" : 3
+
+    },
+    {
+        "question" : "In January 2021, which historical drama became highest-rated show on Netflix? ",
+        "choice1" : "Bridgerton",
+        "choice2" : "Downtown Abbey",
+        "choice3" : "Last Kingdom",
+        "choice4" : "Anne with an E",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Who portrays Dr Watson in Sherlock?",
+        "choice1" : "Martin Freeman",
+        "choice2" : "Benedict Cumberbatch",
+        "choice3" : "Andrew Scott",
+        "choice4" : "Rupert Graves",
+        "answer" : 1
+
+    },
+    {
+        "question" : "In which UK city does Peaky Blinders take place?",
+        "choice1" : "Manchester",
+        "choice2" : "Liverpool",
+        "choice3" : "Birmingham",
+        "choice4" : "London",
+        "answer" : 3
+
+    },
+    {
+        "question" : "In the first episodes of Friends, Monica and Rachel live in what apartment number?",
+        "choice1" : "9",
+        "choice2" : "7",
+        "choice3" : "5",
+        "choice4" : "3",
+        "answer" : 3
+
+    },
+    {
+        "question" : " Who has selective mutism in The Big Bang Theory?",
+        "choice1" : "Penny",
+        "choice2" : "Howard",
+        "choice3" : "Raj",
+        "choice4" : "Leonard",
+        "answer" : 3
+
+    },
+    {
+        "question" : " Which TV show features the theme song I'll Be There for You by The Rembrandts?",
+        "choice1" : "Friends",
+        "choice2" : "Big Bang Theory",
+        "choice3" : "That 70s show",
+        "choice4" : "Modern Family",
+        "answer" : 1
+
+    },
+    {
+        "question" : " “We Were On A Break!” is a famous recurring line by which Friends character?",
+        "choice1" : "Ross",
+        "choice2" : "Joey",
+        "choice3" : "Chandler",
+        "choice4" : "Rachel",
+        "answer" : 1
+
+    },
+    {
+        "question" : " Which actress portrayed Emily Cooper in Emily in Paris?",
+        "choice1" : "Ashley Park",
+        "choice2" : "Lily Collins",
+        "choice3" : "Emilia Clarke",
+        "choice4" : "Lily James",
+        "answer" : 2
+
+    }
+]
